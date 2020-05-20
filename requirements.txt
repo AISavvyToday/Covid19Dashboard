@@ -4,3 +4,12 @@ pandas
 textblob
 plotly-express
 voila
+pandas
+numpy
+ipywidgets
+IPython
+plotly
+seaborn
+matplotlib
+folium
+plotly-graph_objects
